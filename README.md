@@ -6,11 +6,11 @@
 
 ![Ürün Tanıtım Görseli](Product.png)
 
-**Proje Tanımı:** > VQuest, kullanıcıların farklı soru kategorilerinde çevrimiçi odalara katılarak eşzamanlı yarıştığı ve yapay zeka destekli kişisel performans analizi sunan kapsamlı bir bilgi yarışması platformudur. Gelişmiş altyapımız sayesinde kullanıcılara rekabetçi ve kesintisiz bir oyun deneyimi sunarken, dinamik soru havuzumuz ve kendi özel soru paketlerini oluşturma imkanı ile sistemi tamamen kişiselleştirilebilir kılıyoruz. VQuest olarak sıradan bir test uygulamasının ötesine geçerek; canlı puan tabloları, zaman kısıtlı rekabet ve oyun sonrası oluşturulan yapay zeka destekli gelişim raporlarıyla hem eğlendiren hem de kullanıcıların zayıf ve güçlü yönlerini keşfetmelerini sağlayan öğretici bir ekosistem yaratmayı hedefliyoruz.
+**Proje Tanımı:** VQuest, kullanıcıların farklı soru kategorilerinde çevrimiçi odalara katılarak eşzamanlı yarıştığı ve yapay zeka destekli kişisel performans analizi sunan kapsamlı bir bilgi yarışması platformudur. Gelişmiş altyapımız sayesinde kullanıcılara rekabetçi ve kesintisiz bir oyun deneyimi sunarken, dinamik soru havuzumuz ve kendi özel soru paketlerini oluşturma imkanı ile sistemi tamamen kişiselleştirilebilir kılıyoruz. VQuest olarak sıradan bir test uygulamasının ötesine geçerek; canlı puan tabloları, zaman kısıtlı rekabet ve oyun sonrası oluşturulan yapay zeka destekli gelişim raporlarıyla hem eğlendiren hem de kullanıcıların zayıf ve güçlü yönlerini keşfetmelerini sağlayan öğretici bir ekosistem yaratmayı hedefliyoruz.
 
-**Proje Kategorisi:** > Eğitim Teknolojileri (EdTech) & Gerçek Zamanlı Çok Oyunculu Bilgi Yarışması
+**Proje Kategorisi:** Eğitim Teknolojileri (EdTech) & Gerçek Zamanlı Çok Oyunculu Bilgi Yarışması
 
-**Referans Uygulama:** > [Kahoot!](https://kahoot.com/)
+**Referans Uygulama:**  [Kahoot!](https://kahoot.com/)
 
 ---
 
@@ -23,7 +23,7 @@
 
 ## Proje Ekibi
 
-**Grup Adı:** > VDevs
+**Grup Adı:** VDevs
 
 **Ekip Üyeleri:**
 - Şahin Kavsara
