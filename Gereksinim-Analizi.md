@@ -153,7 +153,7 @@
 # Gereksinim Dağılımları
 
 1. [Şahin KAVSARA Gereksinimleri](Sahin-Kavsara/Sahin-Kavsara-Gereksinimler.md)
-2. [Mustafa İsmail TOPTAŞ Gereksinimleri](Mustafa-Toptas/Mustafa-Toptas-Gereksinimler.md)
+2. [Mustafa İsmail TOPTAŞ Gereksinimleri](Mustafa-İsmail-Toptaş/Mustafa-İsmail-Toptaş-Gereksinimler.md)
 3. [Sedat BAKLA Gereksinimleri](Sedat-Bakla/Sedat-Bakla-Gereksinimler.md)
 4. [Emir OMRAK Gereksinimleri](Emir-Omrak/Emir-Omrak-Gereksinimler.md)
-5. [Ömer Said KARAKUŞ Gereksinimleri](Omer-Karakus/Omer-Karakus-Gereksinimler.md)
+5. [Ömer Said KARAKUŞ Gereksinimleri](Ömer-Said-Karakus/Ömer-Said-Karakus-Gereksinimler.md)
